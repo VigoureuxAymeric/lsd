@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "last-spaceship-destroyer", "last-spaceship-destroyer.csproj", "{CE1D67C0-5947-48CB-87AD-71FF236B293C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "last-spaceship-destroyer.Plugins", "last-spaceship-destroyer.Plugins.csproj", "{7EADBA3D-7071-F8A7-F36D-0C91DBE9E71F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "last-spaceship-destroyer.Editor.Plugins", "last-spaceship-destroyer.Editor.Plugins.csproj", "{57D8D502-A4BC-29A1-E4AD-FFF501E355A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE1D67C0-5947-48CB-87AD-71FF236B293C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE1D67C0-5947-48CB-87AD-71FF236B293C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE1D67C0-5947-48CB-87AD-71FF236B293C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE1D67C0-5947-48CB-87AD-71FF236B293C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EADBA3D-7071-F8A7-F36D-0C91DBE9E71F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EADBA3D-7071-F8A7-F36D-0C91DBE9E71F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EADBA3D-7071-F8A7-F36D-0C91DBE9E71F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EADBA3D-7071-F8A7-F36D-0C91DBE9E71F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57D8D502-A4BC-29A1-E4AD-FFF501E355A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57D8D502-A4BC-29A1-E4AD-FFF501E355A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57D8D502-A4BC-29A1-E4AD-FFF501E355A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57D8D502-A4BC-29A1-E4AD-FFF501E355A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
